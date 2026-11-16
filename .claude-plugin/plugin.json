@@ -1,0 +1,11 @@
+{
+  "name": "agent-desk",
+  "version": "0.1.0",
+  "description": "Side panel with one card per subagent: status, steps, tokens, time and latest activity.",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "netizenny"
+  },
+  "repository": "https://github.com/netizenny/agent-desk"
+}

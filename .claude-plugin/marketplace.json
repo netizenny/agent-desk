@@ -1,0 +1,12 @@
+{
+  "name": "agent-desk",
+  "owner": {
+    "name": "netizenny"
+  },
+  "plugins": [
+    {
+      "name": "agent-desk",
+      "source": "./"
+    }
+  ]
+}
